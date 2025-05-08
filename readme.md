@@ -1,7 +1,7 @@
 
 ## **Terms of Service – Kaido Discord Bot**
 
-**Last Updated:** \[Insert Date]
+**Last Updated:** \[09/05/2025]
 
 By using the **Kaido** Discord bot ("the Bot"), you agree to these **Terms of Service** ("Terms"). If you do not agree with these Terms, please do not use the Bot.
 
