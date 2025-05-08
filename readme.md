@@ -1,6 +1,3 @@
-Voici la **version anglaise** des *Terms of Service* suivie d’une **Privacy Policy** pour le bot **Kaido**, développé par **Dextry** pour la guilde **ShogunSky** :
-
----
 
 ## **Terms of Service – Kaido Discord Bot**
 
